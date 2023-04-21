@@ -6,5 +6,6 @@ this generates patches that go into `Mod Animal Commonality/Patches/modanimalcom
 
 it scans recursively in chosen folder (but it needs about.xml). You can also point it to the whole workshop folder to get a menu for all mods you are subsrcrimbled to, and then replace my patch with generated oned although look at my patch i think there is some stuff you also need to put at the end.
 
-scrapper - cherry picker.py does the same but it creates list of all defs in cherry picker format
-scrapper can create list in any format u want and also supposed to be able to apply patch operations but it dosent work for no reason i have no idea why
+scrapper - cherry picker.py does the same, but it creates list of all defs in cherry picker format.
+
+scrapper.py can create list in any format, if you really need that, please DM me. 
